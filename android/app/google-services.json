@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066613456377",
+    "firebase_url": "https://blogapp-d3beb.firebaseio.com",
+    "project_id": "blogapp-d3beb",
+    "storage_bucket": "blogapp-d3beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066613456377:android:6d517efbf1e0c245",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066613456377-4pl88aklq531onvjvetsbd64q9so79ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUISBi1l0xtjxq52uOylX3Tz0LTXJ9CAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066613456377-4pl88aklq531onvjvetsbd64q9so79ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
